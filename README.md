@@ -22,4 +22,4 @@ Text Files Tables:
 | instruments5.txt | error - Bass number of strings is a number between 4 and 6 |
 | instruments6.txt | error - Whether a bass is fretless or not is boolean, any other string than "True" or "False" is not acceptable |
 
-(First java project, semester 2, software engineering bachelor degree)
+(First Java project, semester 2, software engineering bachelor degree)
